@@ -6,6 +6,7 @@ This is a website for the Technical Festival. A simple website made with HTML, C
 ## Sources of the components used:
 
 ### Particle JS background
+(Used this with some changes)</br>
 https://github.com/VincentGarreau/particles.js/
 
 ### Bootstrap
