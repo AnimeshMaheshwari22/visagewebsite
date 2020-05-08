@@ -1,4 +1,4 @@
-# Quantitative club DSCE website
+# Visage Technical festival website
 
 
 This is a website for the Technical Festival. A simple website made with HTML, CSS, Bootstrap(https://getbootstrap.com/) and Javascript with particle js background.
